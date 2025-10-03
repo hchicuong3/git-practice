@@ -1,2 +1,1 @@
-# Git Practice
-Giới thiệu: Tôi là <Huỳnh Chí Cường>, MSSV <224136>.
+Hoạt động 5 lần 2
